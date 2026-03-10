@@ -1,6 +1,5 @@
 
 
-<h1 align="center">Hey, thanks for stopping by!</h1>
 
 ###
 
